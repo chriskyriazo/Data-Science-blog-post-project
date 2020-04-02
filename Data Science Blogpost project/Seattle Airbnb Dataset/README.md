@@ -16,7 +16,10 @@ For this analysis, I focused in answering these three questions:
 
 1.What time of year do house prices go up ? <br />
 2.Which amenities do Airbnb hosts mostly use for their houses ? <br />
-3.Does high review mean higher price for each neighbourhood?
+3.Does high review mean higher price for each neighbourhood? <br />
+
+In order to answer the first question i only worked on the calendar.csv. <br />
+As or the next two i used the listings.csv
 
 ## Result Summary ##
 After I did the analysis, these are the conclusion I found: <br />
