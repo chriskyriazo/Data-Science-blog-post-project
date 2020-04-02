@@ -10,7 +10,7 @@ Matplotlib <br />
 Scikit learn
 
 ## Introduction ##
-In this project, I did the analysis for the Seattle Airbnb dataser. <br />
+In this project, I did the analysis for the Seattle Airbnb dataset. <br />
 This is public data which I took from Kaggle.
 For this analysis, I focused in answering these three questions:
 
