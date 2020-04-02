@@ -22,6 +22,10 @@ In order to answer the first question i only worked on the Calendar Dataset fold
 As for the next two i worked on the Listings Dataset folder using the listings.csv
 
 > ## Files in repository
+* Data Science Blogspot project file which contains the Calendar Dataset file and the listings Dataset file with a README.md for each.
+> * Calendar Dataset file contains a Calendar
+
+
 
 
 > ## Summary of the results ##
