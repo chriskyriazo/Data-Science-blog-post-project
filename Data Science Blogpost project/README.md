@@ -24,7 +24,7 @@ As for the next two i worked on the Listings Dataset folder using the listings.c
 > ## Files in repository
 
 
-> ## Result Summary ##
+> ## Summary of the results ##
 After I did the analysis, these are the conclusion I found: <br />
 
 1.Summer seems to be the season with the higher prices for housing. And winter comes second. This concludes that during vacations the house prices go up. <br />
