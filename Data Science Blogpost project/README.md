@@ -23,7 +23,9 @@ As for the next two i worked on the Listings Dataset folder using the listings.c
 
 > ## Files in repository
 * Data Science Blogspot project file which contains the Calendar Dataset file and the listings Dataset file with a README.md for each.
-> * Calendar Dataset file contains a Calendar
+> * Calendar Dataset file contains a Calendar dataset.ipynb jupyter notebook with notes about this analysis and a README.md file.
+> * Listings Dataset file contains an Amenities.ipynb and a Listings Dataset.ipynb jupyter notebook with notes about this analysis and a README.md file.
+*  README.md file for write-up
 
 
 
