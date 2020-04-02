@@ -1,4 +1,7 @@
 #  Udacity Data Scientist Nanodegree Projects  #
+* Data Science Blogspot project file which contains the Calendar Dataset file and the listings Dataset file with a README.md for each.
+> * Calendar Dataset file contains a Calendar
+
 
 This is a repository for my Data Scientist Nanodegree Projects.
 
