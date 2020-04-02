@@ -2,7 +2,7 @@
 
 You can read my Medium Blog Post in [Udacity Data Science Project](https://medium.com/@christoskyriazo/udacity-data-science-project-7d92ed26c0ae).
 
-## Libraries ##
+> ## Libraries ##
 To be able to run this notebook, you need to install these libraries:
 
 Pandas <br />
