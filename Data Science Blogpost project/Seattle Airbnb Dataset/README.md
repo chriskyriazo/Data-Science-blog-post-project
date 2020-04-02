@@ -5,8 +5,8 @@ You can read my Medium Blog Post in here.
 ## Libraries ##
 To be able to run this notebook, you need to install these libraries:
 
-Pandas
-Matplotlib
+Pandas__
+Matplotlib__
 Scikit learn
 
 ## Introduction ##
