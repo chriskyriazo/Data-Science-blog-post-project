@@ -12,6 +12,8 @@ Scikit learn
 > ## Project Overview ##
 In this project, I did the analysis for the Seattle Airbnb dataset which you can find in [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle). <br />
 This is public data which I took from Kaggle. <br />
+I wanted to investigate the house pricing tendencies over a year in order to have a better understanding of seasonal pricing in Seattle.
+Also i wanted to investigate what do most hosts tend to provide in their house as well as if the house pricing are affected by the reviews they get.
 For this analysis, I focused in answering these three questions:
 
 1.What time of year do house prices go up ? <br />
